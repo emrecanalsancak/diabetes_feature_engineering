@@ -6,14 +6,14 @@ This repository contains Python code for predicting diabetes using a Random Fore
 
 The dataset contains information on various health-related features and an "Outcome" column indicating the presence (1) or absence (0) of diabetes. The variables are:
 
-- **Pregnancies:** Number of pregnancies
-- **Glucose:** 2-hour plasma glucose concentration during an oral glucose tolerance test
-- **Blood Pressure:** Diastolic blood pressure (mm Hg)
-- **Skin Thickness:** Triceps skinfold thickness (mm)
-- **Insulin:** 2-hour serum insulin (mu U/ml)
-- **BMI:** Body Mass Index
-- **Age:** Age in years
-- **Outcome:** Presence (1) or absence (0) of diabetes
+- `Pregnancies:` Number of pregnancies
+- `Glucose:` 2-hour plasma glucose concentration during an oral glucose tolerance test
+- `Blood Pressure:` Diastolic blood pressure (mm Hg)
+- `Skin Thickness:` Triceps skinfold thickness (mm)
+- `Insulin:` 2-hour serum insulin (mu U/ml)
+- `BMI:` Body Mass Index
+- `Age:` Age in years
+- `Outcome:` Presence (1) or absence (0) of diabetes
 
 ## Analysis Steps
 
